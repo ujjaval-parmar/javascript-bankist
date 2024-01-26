@@ -1,7 +1,7 @@
 Bankist app: A little bank like app made with vanila JS.
 
-User to login::
-js : 1111
+User to login::   
+js : 1111      
 jd: 2222
 
 
